@@ -6,7 +6,7 @@ A simple and beginner-friendly AI chatbot built with **Python, Streamlit, and Gr
 
 Try the chatbot online:
 
-👉 **[Open Live Chatbot](https://openchatbotofsaransh.streamlit.app/)**
+👉 **[Open Live Demo](https://openchatbotofsaransh.streamlit.app/)**
 
 ---
 
